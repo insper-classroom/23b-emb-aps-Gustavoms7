@@ -16,9 +16,9 @@ TODO: Aualizar pinos
 
 | Função  | PINO (ex: PA11) |
 |---------|-----------------|
-| BUZZER  |                 |
-| START   |                 |
-| SELEÇÃO |                 |
+| BUZZER  |       PA27      |
+| START   |       PD28      |
+| SELEÇÃO |       PC31      |
 
 ### Imagem da montagem
 
@@ -26,8 +26,8 @@ TODO: Inserir imagem do sistema montado
 
 ### Vídeo do projeto
 
-TODO: Inserir link para vídeo do projeto funcionando
+TODO: https://studio.youtube.com/video/ZaAPAEqh9jM/edit
 
 ### Músicas e Direitos autorais
 
-TODO: Listar músicas e dar crédio da onde saiu:
+Repositorio git-hub: https://github.com/robsoncouto/arduino-songs.git
